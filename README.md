@@ -16,8 +16,7 @@ and interactive experiences powered by AI.
 ## 🛠️ Tech Arsenal
 
 ```python
-Python • Unity • TensorFlow • APIs
-NLP • LLMs • Automation • JSON
+Python • Unity • TensorFlow • APIs • NLP • LLMs • Automation • JSON
 ```
 
 ## 🧠 Currently Building
