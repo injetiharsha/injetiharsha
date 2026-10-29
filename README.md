@@ -1,15 +1,16 @@
-# Injeti Udaya Harsha 👋
-**Software Engineer · Backend Systems · Data Pipelines · Agentic AI**
+<p align="center">
+  <img src="assets/hero_3d.svg" alt="Injeti Udaya Harsha 3D System Constellation" width="100%">
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=googlechrome&logoColor=white)](https://injetiharsha.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udaya-harsha-injeti-4b117624a)
-
----
+<p align="center">
+  <a href="https://injetiharsha.github.io"><img src="https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/udaya-harsha-injeti-4b117624a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
 
 ### 👨‍💻 About Me
-Computer Science graduate focused on building scalable backend services, high-throughput data pipelines, and autonomous multi-agent systems. Experienced in designing modular REST APIs in Python/FastAPI, executing in-memory analytical queries with DuckDB, and engineering event-driven webhook synchronizations.
+Computer Science graduate focused on building scalable backend architectures, high-throughput data processing engines, and autonomous multi-agent pipelines. Experienced in designing modular REST APIs in Python/FastAPI, executing in-memory analytical queries with DuckDB, and engineering event-driven webhook synchronizations.
 
-### 🚀 Featured Projects
+### 🚀 Key Projects
 
 | Project | Tech Stack | Highlights | Links |
 | :--- | :--- | :--- | :--- |
@@ -20,6 +21,6 @@ Computer Science graduate focused on building scalable backend services, high-th
 ### 🛠️ Technical Arsenal
 * **Languages**: Python, TypeScript, SQL, C, C#
 * **Backend & APIs**: FastAPI, REST APIs, Webhooks, Pydantic, HTTP, JSON Schema
-* **Databases & Pipelines**: DuckDB, PostgreSQL, SQLite, Pandas, Ingestion Pipelines
+* **Databases & Storage**: DuckDB, PostgreSQL, SQLite, Pandas, Ingestion Pipelines
 * **Agentic AI & Orchestration**: LangGraph, Multi-Agent Systems, LLM APIs (Gemini, Claude, GPT)
 * **DevOps & Practices**: Git, GitHub Actions, Linux, Docker, Bash, PyTest, Automated Testing
